@@ -58,6 +58,7 @@
       - git
       - ghostscript
       - golang
+      - gradle
       - google-chrome-stable
       - graphviz
       - gromacs
@@ -164,6 +165,7 @@
       - tcsh
       - terminator
       - texlive-full
+      - tldr
       - texstudio
       - theano-doc
       - thonny
